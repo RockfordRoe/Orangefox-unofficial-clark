@@ -1,5 +1,5 @@
 # Orangefox-unofficial-clark
-This is a Unofficial port of Orangefox recovery to the Moto X Pure
+This is a Unofficial port of Orangefox recovery for the Moto X Pure
 
 
 
